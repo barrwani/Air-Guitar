@@ -1,4 +1,4 @@
-# Air-Guitar
+# (Un)Stringed Instruments Air Guitar
 Project created for EG-UY 1004 Introduction to Engineering and Design's Rapid Assembly and Design (RAD) Semester-Long Design Project.
 
 A demo can be found at the following link: https://www.youtube.com/watch?v=r-h1myEDbb0
