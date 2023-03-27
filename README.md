@@ -9,7 +9,7 @@ A demo can be found at the following link: https://www.youtube.com/watch?v=r-h1m
 
 The Air Guitar's Workflow works by utilising a Serial to MIDI bridge called Hairless MIDI (https://projectgus.github.io/hairless-midiserial/) alongside a virtual MIDI port software called loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html) in order to send MIDI data from the Arduino to a DAW.
 
-![Flow Chart](https://user-images.githubusercontent.com/59224547/227822123-f987106e-526c-4bcf-bfb4-4dc2a9d48f9b.jpeg)
+![Flow Chart|500](https://user-images.githubusercontent.com/59224547/227822123-f987106e-526c-4bcf-bfb4-4dc2a9d48f9b.jpeg)
 
 
 The circuitry involves a 'common send' pin which is connected to all sensors, as well as a 2MΩ resistor for each individual sensor. This allows the sensors to measure the electrical capacitance of a user's finger upon contact when used in combination with the CapactiveSensor Library (https://github.com/PaulStoffregen/CapacitiveSensor).
@@ -19,4 +19,5 @@ The circuitry involves a 'common send' pin which is connected to all sensors, as
 
 
 The construction of the instrument is sturdy and light, using sheets of wood cut in the shape of a guitar alongside spacer segments to reduce weight and material costs, as well as allowing for ease of maintenance and access to the circuitry if necessary.
+
 ![CAD Model](https://user-images.githubusercontent.com/59224547/227823453-a779e33b-d81f-4b35-be59-0225d275cd91.png)
